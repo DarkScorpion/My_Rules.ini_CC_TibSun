@@ -9,5 +9,6 @@ Change in skirmish:
 - Cyborg NOD get Secondary weapon: Bazooka (against vehicle and air units).
 - Change cyborg cost on 750.
 - Change Fly Solder cost on 400.
+- Change Rocket Infantry cost on 200.
 - Tiberian silo capacity up to 2000.
 - Add sandbags with tech-level 2.
